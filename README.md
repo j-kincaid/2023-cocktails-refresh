@@ -6,7 +6,7 @@
 
 | Feature to Change | Refresh Request | Possible solutions |
 | --- | ------ | -------- |    
-| Attendee Eventbrite Signup | An easy way to get to the eventbrite for signups, event emails, and mentor emails distinguishing them apart. Access through Slack without getting spammed would be cool too. | In progress. | 
+| Attendee Eventbrite Signup | An easy way to get to the eventbrite for signups, event emails, and mentor emails distinguishing them apart. Access through Slack without getting spammed would be cool too. | Brainstorm underway via Eventbrite docs. | 
 |    |       |       |      
 | Mentor Eventbrite Signup | Incorporate a /mentors route with that specific signup... | Maybe there's an easy way for us to list the events by requesting them from eventbrite or something, not sure.. That way we wouldn't have to keep updating the list of upcoming events | 
 |    |       |       |      
