@@ -1,8 +1,9 @@
 # 2023-cocktails-refresh
 
-## Original website
+## [Original website](https://codingandcocktails.kcwomenintech.org/#home)
 
 ![cocktails-before-home](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/c91531bf-d7e3-49fb-aae5-f324efc49a5c)
+
 
 | Feature to Change | Refresh Request | Possible solutions |
 | --- | ------ | -------- |    
@@ -14,10 +15,7 @@
 |    |       |       |      
 | Needs UX Accessibility Updates | Improve text contrast, general legibility |  Update font colors, other concerns. |
 
+## Current Signup form
 
+![Screenshot 2023-09-04 at 12 46 05 PM](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/d03ec2ed-dae9-4d43-b38d-879d507dbb40)
 
-## One design deck with improved accessibility
-
-Created before receiving Team input.
-
-![cocktails-UX1](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/ff1cc472-29d0-4ae3-871c-fe69cfb50cfb)
