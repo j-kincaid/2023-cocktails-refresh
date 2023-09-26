@@ -2,7 +2,7 @@
 
 ## One solution for improved accessibility
 
-![Screenshot 2023-09-26 at 2 23 41 PM](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/fb5e1ae4-30af-4cae-b192-b3ea5f4eacdb)
+![Screenshot 2023-09-26 at 2 26 56 PM](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/bde7c4fe-f1dc-417e-a5fd-27826246d792)
 
 
 ## [Original website](https://codingandcocktails.kcwomenintech.org/#home)
