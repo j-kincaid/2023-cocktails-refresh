@@ -1,5 +1,8 @@
 # 2023-cocktails-refresh
 
+## One solution for improved accessibility
+![Screenshot 2023-09-26 at 2 08 49 PM](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/3f1e6187-88d7-4fd3-a11f-6a918b19984e)
+
 ## [Original website](https://codingandcocktails.kcwomenintech.org/#home)
 
 ![cocktails-before-home](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/c91531bf-d7e3-49fb-aae5-f324efc49a5c)
