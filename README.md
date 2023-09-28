@@ -29,4 +29,6 @@
 
 ## Proposed Home  (Top of page)
 
-![proposed-homescreen](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/1cb63640-f802-4240-961e-cc2ccbf1430f)
+
+<img width="1051" alt="proposed_homescreen" src="https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/77064d1a-5a68-419a-a3e2-150f3d8008f9">
+
