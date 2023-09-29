@@ -12,6 +12,11 @@
 | Needs UX Accessibility Updates | Improve text contrast, general legibility |  Update font colors, other concerns. |
 
 
+**Newest proposed mock (9/29/23)**
+
+![cocktails-home](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/c9b32d7a-4588-4026-a4b7-a1989b5bc982)
+
+
 ## [Current website](https://codingandcocktails.kcwomenintech.org/#home)
 
 **Original Home  (Top of page)**
@@ -25,7 +30,4 @@
 ![current_signup](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/ee8e5996-2dab-44c5-ab31-b0a49a1d9e94)
 
 
-**Proposed Home  (Top of page)**
-
-![proposed home screen](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/0a327c3c-5fc6-4e40-948a-594bc6e9a140)
 
