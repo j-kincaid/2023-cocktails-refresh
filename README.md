@@ -1,6 +1,4 @@
-# 2023-cocktails-refresh
-
-### It's time to refresh the Coding & Cocktails website! The Cocktails Leadership Team has made the following requests:
+**It's time to refresh the Coding & Cocktails website! The Cocktails Leadership Team has made the following requests:**
 
 
 | Feature to Change | Refresh Request | Possible solutions |
@@ -16,18 +14,18 @@
 
 ## [Current website](https://codingandcocktails.kcwomenintech.org/#home)
 
-## Current Home  (Top of page)
+**Original Home  (Top of page)**
 
 ![cocktails-before-home](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/c91531bf-d7e3-49fb-aae5-f324efc49a5c)
 
 
-## Current Signup form
+**Original Signup form**
 
 
 ![current_signup](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/ee8e5996-2dab-44c5-ab31-b0a49a1d9e94)
 
 
-## Proposed Home  (Top of page)
+**Proposed Home  (Top of page)**
 
 ![proposed home screen](https://github.com/j-kincaid/2023-cocktails-refresh/assets/11914762/0a327c3c-5fc6-4e40-948a-594bc6e9a140)
 
